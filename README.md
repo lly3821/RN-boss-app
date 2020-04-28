@@ -2,4 +2,4 @@
 
 React Native + React Navigation
 
-![Aaron Swartz](raw.githubusercontent.com/lly3821/rn-boss-app/master/src/assets/img/icon-add%402x.png)
+![appPicture](https://raw.githubusercontent.com/lly3821/RN-boss-app/master/markdownPhotos/app.png)
